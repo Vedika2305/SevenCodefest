@@ -63,7 +63,7 @@
   left: -100px;
   width: 1632px;
   height: 91px;
-  position: absolute;
+  position: static;
 }
 .home-background {
   top: 77px;
